@@ -1,0 +1,130 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+/******************************************   M<arket      ***************************************************/
+.market-body
+{
+    overflow: hidden;
+    padding-top: 100px;
+}
+.cat
+{
+    width: 50%;
+    float: left;
+}
+.cat img
+{
+    width: 100%;
+}
+.market-contant
+{
+    width: 50%;
+    float: left;
+    text-align: center;
+    padding-top: 280px;
+}
+.market-contant p
+{
+    font-size: 55px;
+    color: #511281;;
+}
+.market-contant button
+{
+    background-color: #FDCA40;
+    border: solid #542E71;
+    border-radius: 10%;
+    padding: 15px;
+    
+}
+.market-contant button a
+{
+    text-decoration: none;
+    font-size: 25px;
+    color: #542E71;
+    
+}
+/******************************************   setting      ***************************************************/
+.setting-home
+{
+    background-image: url(images/catback.jpg);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: 100% 100%;
+   
+
+}
+.setting-contact
+{
+    width: 80%;
+    text-align: center;
+    margin: auto;
+}
+.cat-layer
+{
+    width: 100%;
+}
+.cat-layer img
+{
+    width: 80%;
+}
+.bye
+{
+    
+    width: 100%;
+}
+.bye p
+{
+    font-size: 55px;
+    color: #150E56;
+    font-weight: 900;
+    background:linear-gradient(#8FD6E1,#1597BB)
+}
+.bye button
+{
+    background:linear-gradient(#8FD6E1,#1597BB);
+    border: solid #150E56;
+    border-radius: 10%;
+    padding: 15px 18px;
+}
+.bye a
+{
+    text-decoration: none;
+    font-size: 25px;
+    color: #150E56;
+}
+/***************************************** Blog ***********************************************/
+.blog-body
+{
+    background-color: #FFCC29;
+    height: 100vh;
+    text-align: center;
+}
+.route
+{
+    width: 38%;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 100px;
+    padding-bottom: 20px;
+    margin: auto;
+}
+.route img
+{
+    width: 100%;
+}
+
+.go-Home button
+{
+    background-image: url(images/route.png);
+    padding: 15px 18px;
+}
+.go-Home a
+{
+    text-decoration: none;
+    font-size: 25px;
+    color: white;
+}
+/* FFC947 */
